@@ -1,0 +1,25 @@
+{
+  "name": "Typescripting.Client",
+  "version": "1.0.0",
+  "description": "Typescript brown bag",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Callum Linington",
+  "license": "ISC",
+  "devDependencies": {
+    "angular": "^1.4.5",
+    "angular-local-storage": "^0.2.2",
+    "angular-ui-bootstrap": "^0.13.4",
+    "angular-ui-router": "^0.2.15",
+    "bootstrap": "^3.3.5",
+    "moment": "^2.10.6",
+    "raw-loader": "^0.5.1",
+    "style-loader": "^0.12.3",
+    "ts-loader": "^0.5.4",
+    "typescript": "^1.6.0-beta",
+    "ui-router": "0.0.1",
+    "webpack": "^1.12.1"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "outDir": "build",
+    "rootDir": "App"
+  },
+  "exclude": [
+    "node_modules",
+    "bin",
+    "obj",
+    "typings",
+    ".settings"
+  ] 
+}
